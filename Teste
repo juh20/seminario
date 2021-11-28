@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Formulário teste</h2>
+
+<form action="/action_page.php">
+  <label for="fname">Primeiro nome:</label><br>
+  <input type="text" id="fname" name="fname" placeholder="Nome"><br>
+  <label for="lname">Sobrenome:</label><br>
+  <input type="text" id="lname" name="lname" placeholder="Sobrenome"><br><br>
+  <input type="submit" value="Enviar">
+</form> 
+
+<p> Este formulário é um oferecimento Indústrias Tabajara.</p>
+
+</body>
+</html>
